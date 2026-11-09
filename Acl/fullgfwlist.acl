@@ -29,6 +29,7 @@
 (^|\.)10musume.com$
 (^|\.)123av.com$
 (^|\.)123av.me$
+(^|\.)123av.org$
 (^|\.)12bet.com$
 (^|\.)12vpn.com$
 (^|\.)12vpn.net$
@@ -80,6 +81,7 @@
 (^|\.)6parker.com$
 (^|\.)6parknews.com$
 (^|\.)7capture.com$
+(^|\.)7x24hrs.com$
 (^|\.)8-d.com$
 (^|\.)85cc.us$
 (^|\.)881903.com$
@@ -223,6 +225,7 @@
 (^|\.)anonymouse.org$
 (^|\.)antd.org$
 (^|\.)anthonycalzadilla.com$
+(^|\.)anthropic.auth0.com$
 (^|\.)anthropic.com$
 (^|\.)antiwave.net$
 (^|\.)antpool.com$
@@ -246,6 +249,7 @@
 (^|\.)api.recaptcha.net$
 (^|\.)api.shuaiapi.com$
 (^|\.)api.steampowered.com$
+(^|\.)api.themoviedb.org$
 (^|\.)apiary.io$
 (^|\.)apigee.com$
 (^|\.)apk.support$
@@ -421,6 +425,7 @@
 (^|\.)bignews.org$
 (^|\.)bigone.com$
 (^|\.)bild.de$
+(^|\.)bilibili.tv$
 (^|\.)bilinovel.com$
 (^|\.)biliworld.com$
 (^|\.)binance.com$
@@ -530,6 +535,7 @@
 (^|\.)brookings.edu$
 (^|\.)brutaltgp.com$
 (^|\.)bsky.app$
+(^|\.)bsky.chat$
 (^|\.)bsky.network$
 (^|\.)bsky.social$
 (^|\.)bt4g.org$
@@ -757,7 +763,10 @@
 (^|\.)clashyun.com$
 (^|\.)classicalguitarblog.net$
 (^|\.)claude.ai$
+(^|\.)claude.app$
 (^|\.)claude.com$
+(^|\.)claudemcpcontent.com$
+(^|\.)claudeusercontent.com$
 (^|\.)cldr.unicode.org$
 (^|\.)clearsurance.com$
 (^|\.)clementine-player.org$
@@ -820,6 +829,7 @@
 (^|\.)compileheart.com$
 (^|\.)connect.facebook.net$
 (^|\.)conoha.jp$
+(^|\.)console.typesafe.ai$
 (^|\.)contests.twilio.com$
 (^|\.)cool18.com$
 (^|\.)coolaler.com$
@@ -1378,6 +1388,7 @@
 (^|\.)g.co$
 (^|\.)g0v.social$
 (^|\.)g6hentai.com$
+(^|\.)ga.jspm.io$
 (^|\.)gab.com$
 (^|\.)gabocorp.com$
 (^|\.)gagaoolala.com$
@@ -2189,6 +2200,7 @@
 (^|\.)kichiku-doujinko.com$
 (^|\.)kik.com$
 (^|\.)killwall.com$
+(^|\.)kimootoko.net$
 (^|\.)kindle4rss.com$
 (^|\.)kindleren.com$
 (^|\.)kingdomsalvation.org$
@@ -2394,7 +2406,6 @@
 (^|\.)matters.town$
 (^|\.)matthewdgreen.wordpress.com$
 (^|\.)mattwilcox.net$
-(^|\.)maven.neoforged.net$
 (^|\.)mcadforums.com$
 (^|\.)mcaf.ee$
 (^|\.)mceindex.com$
@@ -2430,7 +2441,9 @@
 (^|\.)meripet.com$
 (^|\.)merit-times.com.tw$
 (^|\.)messenger.com$
+(^|\.)meta.ai$
 (^|\.)meta.com$
+(^|\.)metaaivm.com$
 (^|\.)metafilter.com$
 (^|\.)metamask.io$
 (^|\.)metart.com$
@@ -2470,6 +2483,7 @@
 (^|\.)minhhue.net$
 (^|\.)miningpoolhub.com$
 (^|\.)ministrybooks.org$
+(^|\.)minkch.com$
 (^|\.)minzhuzhongguo.org$
 (^|\.)miraheze.org$
 (^|\.)mirdc.org.tw$
@@ -2532,6 +2546,7 @@
 (^|\.)mosavi.io$
 (^|\.)motherless.com$
 (^|\.)movements.org$
+(^|\.)movie.eroterest.net$
 (^|\.)moviefap.com$
 (^|\.)mpettis.com$
 (^|\.)mpfinance.com$
@@ -2600,6 +2615,7 @@
 (^|\.)nekoslovakia.net$
 (^|\.)neo-miracle.com$
 (^|\.)neodb.social$
+(^|\.)neoforged.net$
 (^|\.)neowin.net$
 (^|\.)nephobox.com$
 (^|\.)netalert.me$
@@ -2665,6 +2681,9 @@
 (^|\.)niu.moe$
 (^|\.)niusnews.com$
 (^|\.)njactb.org$
+(^|\.)njav.com$
+(^|\.)njav.tv$
+(^|\.)njavtv.com$
 (^|\.)nlfreevpn.com$
 (^|\.)nmsl.website$
 (^|\.)nnews.eu$
@@ -2917,6 +2936,7 @@
 (^|\.)plurk.com$
 (^|\.)plus.codes$
 (^|\.)pmatehunter.com$
+(^|\.)po-kaki-to.com$
 (^|\.)po2b.com$
 (^|\.)podbean.com$
 (^|\.)podcast.co$
@@ -3694,6 +3714,7 @@
 (^|\.)torproject.org$
 (^|\.)torrentgalaxy.to$
 (^|\.)torrentkitty.tv$
+(^|\.)torrentleech.org$
 (^|\.)torrentprivacy.com$
 (^|\.)torrentproject.se$
 (^|\.)torrenty.org$
@@ -4302,6 +4323,7 @@
 (^|\.)youtubegaming.com$
 (^|\.)youtubekids.com$
 (^|\.)youversion.com$
+(^|\.)youversionapi.com$
 (^|\.)youwin.com$
 (^|\.)youxu.info$
 (^|\.)yt.be$
@@ -4371,6 +4393,7 @@
 (^|\.)zophar.net$
 (^|\.)zorrovpn.com$
 (^|\.)zozotown.com$
+(^|\.)zozovideo.com$
 (^|\.)zpn.im$
 (^|\.)zspeeder.me$
 (^|\.)zuo.la$
